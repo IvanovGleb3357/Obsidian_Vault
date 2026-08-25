@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"14555e1435437de3","type":"file","file":"Studying Sub Vault/5 Statistics/5.1 Основные понятия статистики.md","x":-320,"y":-160,"width":400,"height":80,"color":"4"},
+		{"id":"3b2cb45c5f2ecd28","type":"file","file":"Studying Sub Vault/5 Statistics/5.2 Проверка гипотез.md","x":-320,"y":-40,"width":400,"height":50,"color":"4"},
+		{"id":"39b1eeca435a9892","type":"file","file":"Studying Sub Vault/5 Statistics/5.4 Сравнение средних значений (T-тест).md","x":-320,"y":180,"width":400,"height":88,"color":"4"},
+		{"id":"a2b64bf10eb83628","type":"file","file":"Studying Sub Vault/5 Statistics/5.3 Статистический вывод.md","x":-320,"y":60,"width":400,"height":80,"color":"4"},
+		{"id":"9c15a77a7cb01e72","type":"file","file":"Studying Sub Vault/5 Statistics/5.5 Сравнение средних значений (дисперсионный анализ).md","x":-320,"y":320,"width":400,"height":170,"color":"4"},
+		{"id":"b809dc767dda6522","type":"file","file":"Studying Sub Vault/5 Statistics/5.6 Корреляция и регрессия.md","x":-320,"y":540,"width":400,"height":82,"color":"4"},
+		{"id":"28373d4f814e213d","type":"file","file":"Studying Sub Vault/5 Statistics/5.8 bootstrap.md","x":-320,"y":780,"width":400,"height":50,"color":"4"},
+		{"id":"95f374ba53b1e1e8","type":"file","file":"Studying Sub Vault/5 Statistics/5.7 Множественный регрессионный анализ.md","x":-320,"y":660,"width":400,"height":74,"color":"4"},
+		{"id":"68dc337a652a31a9","type":"file","file":"Studying Sub Vault/5 Statistics/5.9 Аналитика категорияальных переменных.md","x":-320,"y":880,"width":400,"height":115,"color":"4"},
+		{"id":"7477ff1f63ec634f","type":"file","file":"Studying Sub Vault/5 Statistics/5.10 АБ тесты. Введение в проблематику.md","x":-320,"y":1040,"width":400,"height":80,"color":"4"},
+		{"id":"210443d2a515c141","type":"file","file":"Studying Sub Vault/5 Statistics/5.11 АБ-тесты практика.md","x":-320,"y":1160,"width":400,"height":50,"color":"4"},
+		{"id":"65a8e9162f432951","type":"text","text":"Statistics","x":-720,"y":672,"width":250,"height":50,"color":"4"}
+	],
+	"edges":[
+		{"id":"ca7f9dd2f4929f46","fromNode":"65a8e9162f432951","fromSide":"right","toNode":"14555e1435437de3","toSide":"left"},
+		{"id":"571a091f0f5fe21a","fromNode":"65a8e9162f432951","fromSide":"right","toNode":"3b2cb45c5f2ecd28","toSide":"left"},
+		{"id":"243f389ae8d4d793","fromNode":"65a8e9162f432951","fromSide":"right","toNode":"a2b64bf10eb83628","toSide":"left"},
+		{"id":"6e247c8be12989d8","fromNode":"65a8e9162f432951","fromSide":"right","toNode":"39b1eeca435a9892","toSide":"left"},
+		{"id":"007061b54609d93d","fromNode":"65a8e9162f432951","fromSide":"right","toNode":"9c15a77a7cb01e72","toSide":"left"},
+		{"id":"937b98f80227d017","fromNode":"65a8e9162f432951","fromSide":"right","toNode":"b809dc767dda6522","toSide":"left"},
+		{"id":"6dafa8db5c43d95a","fromNode":"65a8e9162f432951","fromSide":"right","toNode":"95f374ba53b1e1e8","toSide":"left"},
+		{"id":"1b9953e0a550e7d4","fromNode":"65a8e9162f432951","fromSide":"right","toNode":"28373d4f814e213d","toSide":"left"},
+		{"id":"1d8f6559a10ec861","fromNode":"65a8e9162f432951","fromSide":"right","toNode":"68dc337a652a31a9","toSide":"left"},
+		{"id":"23ae1be03c467e02","fromNode":"65a8e9162f432951","fromSide":"right","toNode":"7477ff1f63ec634f","toSide":"left"},
+		{"id":"dd8753533135b4b1","fromNode":"65a8e9162f432951","fromSide":"right","toNode":"210443d2a515c141","toSide":"left"}
+	]
+}
