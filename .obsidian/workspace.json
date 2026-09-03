@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "d50966f3eddab3b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c95fd3963e95d1c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acd3470400554208",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "389276e4d5bf86e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b095e1ea616ecda",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a113f7f4e8627db9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d69f280aee62f4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e244704970cc8eaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7f3630ea4ddd644b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "316d0015ef0c3878",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23b6d9512cb37206",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d521d8b608cac0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6308a2ec992078b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "48358d71d3dd9f00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cdcfcbeb321a5471",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b8bfbd011c8f02d8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f4938a758d78e68b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e244704970cc8eaa",
+  "lastOpenFiles": [
+    "Studying Sub Vault/Собесы/Собеседование БА Тиньков.md",
+    "Studying Sub Vault/Собесы/Системный аналитик.md",
+    "Studying Sub Vault/Собесы/Аналитик.md",
+    "Studying Sub Vault/Жесткий системный анализ/Требования, US, UC, AC.md",
+    "Studying Sub Vault/Жесткий системный анализ/ООП и Архитектура ПО.md",
+    "Studying Sub Vault/Жесткий системный анализ/Интеграции.md",
+    "Studying Sub Vault/Жесткий системный анализ/Ежедневник.md",
+    "Studying Sub Vault/Жесткий системный анализ/Документы, Роли.md",
+    "Studying Sub Vault/Жесткий системный анализ/Веб-сервисы, протоколы, сети.md",
+    "Studying Sub Vault/Жесткий системный анализ/БД.md",
+    "Studying Sub Vault/Жесткий системный анализ/Банковское дело.md",
+    "Studying Sub Vault/Жесткий системный анализ/UML, BPMN, PROTOTYPES.md",
+    "Studying Sub Vault/Жесткий системный анализ/BASA, Роли, SDLC, Методология, Фазы, Эстимация.md",
+    "Studying Sub Vault/А теперь БигДата/Финтех-тренды.md",
+    "Studying Sub Vault/А теперь БигДата/СУБД_в_Высоконагруженных_системах.md",
+    "Studying Sub Vault/А теперь БигДата/Продвинутый SQL.md",
+    "Studying Sub Vault/А теперь БигДата/Моя История.md",
+    "Studying Sub Vault/А теперь БигДата/Математика, Статистика, ТеорВер.md",
+    "Studying Sub Vault/А теперь БигДата/Лекции.md",
+    "Studying Sub Vault/А теперь БигДата/Для Дмитрия SQL.md",
+    "Studying Sub Vault/А теперь БигДата/To do.md",
+    "Studying Sub Vault/А теперь БигДата/RegularExpressions.md",
+    "Studying Sub Vault/А теперь БигДата/Map Reduce Filter Pythones.md",
+    "Studying Sub Vault/А теперь БигДата/Linux.md",
+    "Studying Sub Vault/А теперь БигДата/Kafka for beginners.md",
+    "Studying Sub Vault/А теперь БигДата/GCP AWS AZURE.md",
+    "Studying Sub Vault/Собесы",
+    "Studying Sub Vault/Жесткий системный анализ",
+    "Studying Sub Vault/База по ФИНТЕХ",
+    "Studying Sub Vault/А теперь БигДата",
+    "Studying Sub Vault/Untitled.canvas",
+    "Studying Sub Vault/Untitled 7.canvas",
+    "Studying Sub Vault/Untitled 6.canvas",
+    "Studying Sub Vault/Untitled 5.canvas",
+    "Studying Sub Vault/Untitled 4.canvas",
+    "Studying Sub Vault/Untitled 2.canvas",
+    "Studying Sub Vault/Untitled 3.canvas",
+    "Studying Sub Vault/Stepik",
+    "Studying Sub Vault/Pasted image 20260708213724.png",
+    "Studying Sub Vault/Pasted image 20260705172158.png",
+    "Studying Sub Vault/Pasted image 20240818123415.png",
+    "Studying Sub Vault/Pasted image 20240818123400.png",
+    "Studying Sub Vault/Pasted image 20240818123148.png",
+    "Studying Sub Vault/Pasted image 20240818122938.png",
+    "Studying Sub Vault/Pasted image 20240409132547.png",
+    "Studying Sub Vault/Pasted image 20240409114556.png",
+    "Studying Sub Vault/Pasted image 20240409132253.png",
+    "Studying Sub Vault/Pasted image 20240405151945.png",
+    "Studying Sub Vault/ML",
+    "Studying Sub Vault/9 Развитие продукта",
+    "Studying Sub Vault/8 Визуализация",
+    "Studying Sub Vault/5 Statistics",
+    "Studying Sub Vault/4 Теория вероятности",
+    "Studying Vault/Untitled 7.canvas",
+    "Studying Vault/Untitled.canvas",
+    "Studying Vault/Untitled 6.canvas"
+  ]
+}

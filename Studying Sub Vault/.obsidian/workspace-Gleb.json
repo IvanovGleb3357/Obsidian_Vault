@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "96cedf64bb45cfa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "60389306e97c6bad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0dee5570a1b7c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "А теперь БигДата/Моя История.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31093c19e0c7ef58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/ML Stepik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9caa81eb03c6f958",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8374dc2062d1d5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5710c026b2736c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b53c8c9a853d8fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "SCD",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbf8a083215429ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c289d781ddb710cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "right": {
+    "id": "47b15b3b70e006f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b7f94e491fadaeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc5cd0070097f0c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ML/ML Stepik.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d802fcc29d300cb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ML/ML Stepik.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f639bd311d227628",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "865bc370a03eadd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ML/ML Stepik.md"
+              }
+            }
+          },
+          {
+            "id": "ee23b0aa070bd86e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "31093c19e0c7ef58",
+  "lastOpenFiles": [
+    "Pasted image 20230713144301.png",
+    "А теперь БигДата/1.2 Hadoop с QJM. Zookeeper.md",
+    "А теперь БигДата/Моя История.md",
+    "А теперь БигДата/4. DWH, DL, DM, DS.md",
+    "5 Statistics/5.2 Проверка гипотез.md",
+    "5 Statistics/5.1 Основные понятия статистики.md",
+    "5 Statistics/5.4 Сравнение средних значений (T-тест).md",
+    "5 Statistics/5.3 Статистический вывод.md",
+    "Жесткий системный анализ/БД.md",
+    "А теперь БигДата/3. GreenPlum.md",
+    "Pasted image 20240409132547.png",
+    "Pasted image 20240409132253.png",
+    "А теперь БигДата/2. Apache Spark.md",
+    "А теперь БигДата/5. SPARK.md",
+    "А теперь БигДата/1.1 Hadoop. Hive. HBase.md",
+    "Pasted image 20240409114556.png",
+    "А теперь БигДата/Linux.md",
+    "А теперь БигДата/Map Reduce Filter Pythones.md",
+    "А теперь БигДата/Kafka for beginners.md",
+    "А теперь БигДата/123.md",
+    "ML/ML Stepik.md",
+    "А теперь БигДата/Продвинутый SQL.md",
+    "3 SQL/3.5 Подзапросы, представления, создание таблиц.md",
+    "Pasted image 20240405151945.png",
+    "Pasted image 20240405151101.png",
+    "Жесткий системный анализ/Банковское дело.md",
+    "А теперь БигДата/To do.md",
+    "Жесткий системный анализ/ООП и Архитектура ПО.md",
+    "Жесткий системный анализ/Интеграции.md",
+    "Жесткий системный анализ/BASA, Роли, SDLC, Методология, Фазы, Эстимация.md",
+    "Жесткий системный анализ/UML, BPMN, PROTOTYPES.md",
+    "Pasted image 20240331193126.png",
+    "Pasted image 20240331192546.png",
+    "Pasted image 20240331192459.png",
+    "Pasted image 20240331192445.png",
+    "Pasted image 20240331192437.png",
+    "ы",
+    "База по ФИНТЕХ",
+    "Блять а теперь БигДата/Linux",
+    "Untitled 1.canvas",
+    "А теперь БигДата",
+    "Жесткий системный анализ",
+    "ML",
+    "Untitled 7.canvas",
+    "Собесы",
+    "9 Развитие продукта",
+    "Untitled 6.canvas",
+    "Untitled 4.canvas",
+    "Untitled 5.canvas",
+    "8 Визуализация",
+    "Stepik",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas"
+  ]
+}
